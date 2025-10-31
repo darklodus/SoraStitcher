@@ -126,3 +126,5 @@ Released under the MIT License — free for personal and commercial use.
 Created by **Joseph Reynolds (@darklodus)**
 
 > “A simple way to stitch your story together.”
+
+* [Buy Me a Coffee](https://buymeacoffee.com/darklodus) Help support my little projects by sending me a cup of coffee :)
